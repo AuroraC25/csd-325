@@ -1,4 +1,5 @@
 # Name: Aurora Crippen
+# GitHub Repository: https://github.com/AuroraC25/csd-325.git
 # Date: June 13, 2026
 # Course: CSD 325-T301_2267_1 Advanced Python
 # Assignment: Module 1.3 Assignment
